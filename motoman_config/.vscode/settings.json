@@ -1,0 +1,15 @@
+{
+    "ros.distro": "noetic",
+    "python.autoComplete.extraPaths": [
+        "/opt/ros/noetic/lib/python3/dist-packages",
+        "/opt/openrobots/lib/python3.8/site-packages",
+        "",
+        "/home/yinglong/Documents/research/engine/bullet3/build_cmake/examples/pybullet"
+    ],
+    "python.analysis.extraPaths": [
+        "/opt/ros/noetic/lib/python3/dist-packages",
+        "/opt/openrobots/lib/python3.8/site-packages",
+        "",
+        "/home/yinglong/Documents/research/engine/bullet3/build_cmake/examples/pybullet"
+    ]
+}
